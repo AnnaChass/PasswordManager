@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="half_height">330dp</dimen>
+    <dimen name="third_width">100dp</dimen>
+    <dimen name="too_right">320dp</dimen>
+</resources>
